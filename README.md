@@ -1,2 +1,2 @@
-# Machine-Learning-Projects
+# Robotics-Projects
 All solved projects of machine learning.
