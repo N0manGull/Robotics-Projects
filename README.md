@@ -1,2 +1,2 @@
 # Robotics-Projects
-All solved projects of machine learning.
+Written code of Robotics Projects
